@@ -2,7 +2,7 @@
 
 ## Overview
 
-ShiftKey Labs Events Application is a mobile platform for efficiently managing events conducted by ShiftKey Labs. With a user-friendly interface and secure authentication measures, the application serves as a one-stop solution for event creation, QR code scanning, and attendance marking.
+ShiftKey Labs Events Application is a mobile platform built with React Native using the Expo framework and TypeScript. It's designed for efficiently managing events conducted by ShiftKey Labs. With a user-friendly interface and secure authentication measures, the application serves as a one-stop solution for event creation, QR code scanning, and attendance marking.
 
 ## Table of Contents
 
@@ -10,6 +10,8 @@ ShiftKey Labs Events Application is a mobile platform for efficiently managing e
 - [Usage](#usage)
 - [Features](#features)
 - [Contribution](#contribution)
+- [Support](#support)
+- [Acknowledgments](#acknowledgments)
 - [License](#license)
 
 ## Installation
@@ -75,7 +77,6 @@ ShiftKey Labs Events Application is a mobile platform for efficiently managing e
 
 Contributions to the ShiftKey Labs Events Application are always welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-
 ## Support
 
 For support, bugs, and feature requests, please use the [issues](https://github.com/ShiftKeyLabs/ShiftKeyLabs-Events-App/issues) section in the GitHub repository.
@@ -84,4 +85,8 @@ For support, bugs, and feature requests, please use the [issues](https://github.
 
 - ShiftKey Labs Community
 - All contributors and maintainers
+
+## License
+
+[Please add license information here or mention the type of license used.]
 
