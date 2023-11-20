@@ -86,7 +86,7 @@ For support, bugs, and feature requests, please use the [issues](https://github.
 - ShiftKey Labs Community
 - All contributors and maintainers
 
-## License
+## Licenses
 
 [Please add license information here or mention the type of license used.]
 
